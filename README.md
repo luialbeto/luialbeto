@@ -6,4 +6,7 @@ I'm software development. Graduated in Social Communication at the Centro Univer
 🔭 I’m currently working on QueroQuitar as QA Tester.
 
 
-Software Development, Full Stack, Front-End and Back-End 
+Software Development, Full Stack, Front-End and Back-End
+
+?theme=THEME_NAME
+
