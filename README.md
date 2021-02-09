@@ -8,5 +8,11 @@ I'm software development. Graduated in Social Communication at the Centro Univer
 
 Software Development, Full Stack, Front-End and Back-End
 
-?theme=THEME_NAME
-
+const themes = {
+  dark: {
+    title_color: "fff",
+    icon_color: "79ff97",
+    text_color: "9f9f9f",
+    bg_color: "151515",
+  },
+};
