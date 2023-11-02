@@ -3,7 +3,7 @@
 Passionate about social impact technology
 
 I'm a software developer. I graduated in Social Communication, Post-Graduated in Administration and coursing Master´s Degree in Innovation.
-🔭 I’m currently working in the BetFinal.
+🔭 I’m currently working as Full Stack Developer at Betfinal.
 
 
 Full Stack Developer
